@@ -1,0 +1,36 @@
+{
+  "editorial_framework": {
+    "title": "Editorial Values & AI Assessment Framework",
+    "purpose": "To provide citizens with the information they need to be free and self-governing.",
+    "assessment_rubric": [
+      {
+        "axis": "Accuracy",
+        "description": "Are factual claims supported by credible sources and verifiable evidence?"
+      },
+      {
+        "axis": "Balance",
+        "description": "Are differing perspectives presented fairly and without distortion? Balance does not mean all views are given equal weight\u2014it means relevant and credible perspectives are included in proportion to their evidentiary and civic significance. Where views are excluded, the editorial rationale should be evident. As Emile Zola put it, art\u2014and by extension, journalism\u2014is 'a corner of reality viewed through a template.' Balance requires awareness of that framing."
+      },
+      {
+        "axis": "Clarity",
+        "description": "Is the piece coherent, readable, and understandable to its intended audience?"
+      },
+      {
+        "axis": "Engagement",
+        "description": "Does it maintain the reader's attention without resorting to manipulation or sensationalism?"
+      },
+      {
+        "axis": "Ethical Standards",
+        "description": "Are principles like fairness, dignity, and privacy respected throughout?"
+      },
+      {
+        "axis": "Relevance",
+        "description": "Does the content connect meaningfully with public life, context, or consequence?"
+      },
+      {
+        "axis": "Transparency",
+        "description": "Are sources, methods, and editorial decisions disclosed to the audience?"
+      }
+    ]
+  }
+}
